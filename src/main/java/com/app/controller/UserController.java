@@ -16,7 +16,7 @@ import com.app.entity.User;
 import com.app.service.UserService;
 
 @RestController
-@CrossOrigin("https://tejasreefrontend.azurewebsites.net")
+@CrossOrigin("https://tejasreefrontend11.azurewebsites.net")
 public class UserController {
 
 	@Autowired
